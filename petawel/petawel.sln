@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "petawel", "petawel\petawel.csproj", "{F5985C1E-3255-453C-9A58-620ED0596461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5985C1E-3255-453C-9A58-620ED0596461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5985C1E-3255-453C-9A58-620ED0596461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5985C1E-3255-453C-9A58-620ED0596461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5985C1E-3255-453C-9A58-620ED0596461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42C8804E-3BB1-40CE-B634-E304B1037637}
+	EndGlobalSection
+EndGlobal
